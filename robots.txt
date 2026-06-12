@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pc-acrylic-specialist-en.pages.dev/sitemap.xml
